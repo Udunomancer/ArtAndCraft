@@ -1,0 +1,39 @@
+* {
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+}
+
+h3 {
+    font-size: 32px;
+    color: white;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bgBlue {
+    background-color: skyblue;
+}
+
+.bgGreen {
+    background-color: mediumspringgreen;
+}
+
+.bgRed {
+    background-color: lightcoral;
+}
+
+.price {
+    color: blue;
+    font-weight: bold;
+}
